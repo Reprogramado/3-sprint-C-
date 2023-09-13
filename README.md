@@ -7,5 +7,6 @@ RM - 94764 Erick Soares de Alecrim Mergulhão
 RM - 94269 Douglas Welber Santos de Aguiar
 RM94717 - Tarcisio Ferreira Couto
 
-professor, deixarei o link do video no youtube explicando melhor a aplicação e mostrando as telas que estão na documentação.
+professor, deixarei o link de dois video no youtube explicando melhor a aplicação, mostrando as telas que estão na documentação e fazendo alguns testes
 https://youtu.be/yby0qDu5kVY
+https://www.youtube.com/watch?v=tIP5Ys3pUmQ
