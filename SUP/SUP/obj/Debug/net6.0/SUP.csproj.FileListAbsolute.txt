@@ -1,0 +1,14 @@
+C:\Users\dani0\Desktop\cSharp\projetos\SUP\SUP\bin\Debug\net6.0\SUP.exe
+C:\Users\dani0\Desktop\cSharp\projetos\SUP\SUP\bin\Debug\net6.0\SUP.deps.json
+C:\Users\dani0\Desktop\cSharp\projetos\SUP\SUP\bin\Debug\net6.0\SUP.runtimeconfig.json
+C:\Users\dani0\Desktop\cSharp\projetos\SUP\SUP\bin\Debug\net6.0\SUP.dll
+C:\Users\dani0\Desktop\cSharp\projetos\SUP\SUP\bin\Debug\net6.0\SUP.pdb
+C:\Users\dani0\Desktop\cSharp\projetos\SUP\SUP\obj\Debug\net6.0\SUP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dani0\Desktop\cSharp\projetos\SUP\SUP\obj\Debug\net6.0\SUP.AssemblyInfoInputs.cache
+C:\Users\dani0\Desktop\cSharp\projetos\SUP\SUP\obj\Debug\net6.0\SUP.AssemblyInfo.cs
+C:\Users\dani0\Desktop\cSharp\projetos\SUP\SUP\obj\Debug\net6.0\SUP.csproj.CoreCompileInputs.cache
+C:\Users\dani0\Desktop\cSharp\projetos\SUP\SUP\obj\Debug\net6.0\SUP.dll
+C:\Users\dani0\Desktop\cSharp\projetos\SUP\SUP\obj\Debug\net6.0\refint\SUP.dll
+C:\Users\dani0\Desktop\cSharp\projetos\SUP\SUP\obj\Debug\net6.0\SUP.pdb
+C:\Users\dani0\Desktop\cSharp\projetos\SUP\SUP\obj\Debug\net6.0\SUP.genruntimeconfig.cache
+C:\Users\dani0\Desktop\cSharp\projetos\SUP\SUP\obj\Debug\net6.0\ref\SUP.dll
